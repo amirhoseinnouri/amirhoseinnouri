@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AMIR HOSEIN NOURI 
 - 👀 I’m interested in basketball and the world of programming ;
-- 🌱 I’m currently learning c++ , python language and linux of course;
+- 🌱 I’m currently learning c++ , python ,js language and linux of course;
 - 📫 Message this ID to contact me -> [telegram](https://t.me/Nouri_AmirHosein)
 - 😄 Pronouns: Hardworking, fighting spirit, logical, thoughtful
 - ⚡ Fun fact: Small circle +
