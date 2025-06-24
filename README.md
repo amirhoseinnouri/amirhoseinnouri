@@ -8,7 +8,6 @@ Private life +
 Clear mind =
 Happy soul
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amirhoseinnouri&repo=Cyber-security)](https://github.com/amirhoseinnouri/Cyber-security)
 [![amir's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=amirhoseinnouri&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/amirhoseinnouri/github-readme-stats#gh-dark-mode-only)
 [![amir's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=amirhoseinnouri&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/amirhoseinnouri/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinnouri&layout=donut)](https://github.com/amirhoseinnouri)
