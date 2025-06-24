@@ -4,9 +4,10 @@
 
 Cyber-security | Web Designer and Programmer <br>
 
-- 🌱 I’m currently learning c++ , python ,js language and linux of course;
-- 📫 Message this ID to contact me -> [telegram](https://t.me/Nouri_AmirHosein)
-- 😄 Pronouns: Hardworking, fighting spirit, logical, thoughtful
+- I’m currently working on **Cyber-security projects and linux of course**;
+-  Message this ID to contact me -> [telegram](https://t.me/Nouri_AmirHosein)
+- How to reach me **amirhoseinnouri5644@gmail.com**
+-  Pronouns: Hardworking, fighting spirit, logical, thoughtful
 ---
 [![amir's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=amirhoseinnouri&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/amirhoseinnouri/github-readme-stats#gh-dark-mode-only)
 [![amir's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=amirhoseinnouri&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/amirhoseinnouri/github-readme-stats#gh-light-mode-only)
