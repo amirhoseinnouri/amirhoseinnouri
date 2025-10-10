@@ -9,7 +9,11 @@ Cyber-security | Web Designer and Programmer <br>
 -  Pronouns: Hardworking, fighting spirit, logical, thoughtful 
 message this ID to contact me <a href="https://t.me/Nouri_AmirHosein/">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+</a><br>
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinnouri&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/amirhoseinnouri)
+
 ---
 ## My favorite tools and technologies ⚙️
 
