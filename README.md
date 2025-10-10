@@ -15,71 +15,15 @@ message this ID to contact me <a href="https://t.me/Nouri_AmirHosein/">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinnouri&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/amirhoseinnouri)
 
 ---
-## My favorite tools and technologies ⚙️
-
-> Tools and technologies that I have worked with and am interested in
-
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-            
-  </tr>
-   
- <tr>
- </tr>
-</table>
-
-<!---
-amirhoseinnouri/amirhoseinnouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What i know
+![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+<img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64">
+![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
+![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![VB](https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg)
+![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
