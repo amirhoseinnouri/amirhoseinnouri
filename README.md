@@ -6,13 +6,7 @@ Cyber-security | Web Designer and Programmer <br>
 
 - I’m currently working on **Cyber-security projects and linux of course**;
 - How to reach me **amirhoseinnouri5644@gmail.com**
--  Pronouns: Hardworking, fighting spirit, logical, thoughtful
----
-[![amir's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=amirhoseinnouri&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/amirhoseinnouri/github-readme-stats#gh-dark-mode-only)
-[![amir's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=amirhoseinnouri&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/amirhoseinnouri/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinnouri&layout=donut)](https://github.com/amirhoseinnouri)
-
---- 
+-  Pronouns: Hardworking, fighting spirit, logical, thoughtful 
 message this ID to contact me <a href="https://t.me/Nouri_AmirHosein/">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
