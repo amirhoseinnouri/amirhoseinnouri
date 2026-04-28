@@ -1,15 +1,14 @@
 <h1> Hi there <a href="https://emoji.gg/emoji/7723-check-mark"><img src="https://cdn3.emoji.gg/emojis/7723-check-mark.gif" width="30px" height="30px" alt="check_mark"></a> It's AMIR HOSEIN NOURI </h1>
 
 <img src="https://img.shields.io/github/stars/amirhoseinnouri">
+<p align="center"><samp>Bug Hunter • Cyber Security • Open Source</samp></p>
 
-Cyber-security | Web Designer and Programmer <br>
-
-- I’m currently working on **Cyber-security projects and linux of course**;
-- How to reach me **amirhoseinnouri5644@gmail.com**
--  Pronouns: Hardworking, fighting spirit, logical, thoughtful 
-message this ID to contact me <a href="https://t.me/Nouri_AmirHosein/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a><br>
+---
+<p align="center">
+  Restrictions don’t define me.<br>
+  I use Linux, break boundaries, and craft solutions in code.<br>
+  Always learning, always exploring, always building.
+</p>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinnouri&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/amirhoseinnouri)
@@ -27,3 +26,11 @@ message this ID to contact me <a href="https://t.me/Nouri_AmirHosein/">
 ![VB](https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg)
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+
+---
+- How to reach me **amirhoseinnouri5644@gmail.com**
+-  Pronouns: Hardworking, fighting spirit, logical, thoughtful 
+message this ID to contact me <a href="https://t.me/Nouri_AmirHosein/">
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a><br>
+ 
